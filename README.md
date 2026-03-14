@@ -189,7 +189,7 @@ https://github.com/RVkumawat5200
 
 🔥 Quick Start
 # Clone repository
-git clone https://github.com/your-username/tvm-calculator.git
+git clone  https://github.com/RVkumawat5200/TVM-Calculator-/blob/main/TVM%20Calculator.html
 
 # Open project folder
 cd tvm-calculator
